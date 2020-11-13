@@ -1,0 +1,14 @@
+// run>    npm init
+//run>    npm install --save-dev eslint
+{
+  "name": "javascript-complete-guide",
+  "version": "1.0.0",
+  "description": "JavaScript - The Complete Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximilian Schwarzmueller",
+  "license": "ISC"
+}
+
